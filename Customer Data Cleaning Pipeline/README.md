@@ -1,4 +1,4 @@
-Customer Data Cleaning Pipeline
+# Customer Data Cleaning Pipeline
 
 This is a simulated SQL case study involving customer data integration and cleaning for a fictional e-commerce SME called TokoBersih.
 
