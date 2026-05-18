@@ -1,8 +1,8 @@
 # Customer Data Cleaning Pipeline
 
-This is a simulated SQL case study involving customer data integration and cleaning for a fictional e-commerce SME called TokoBersih.
+This project is a simulated SQL case study involving customer data integration and cleaning for a fictional e-commerce SME called TokoBersih.
 
-It is integrates customer data from three different systems and a transaction table into a unified analytical dataset for BI reporting.
+The project integrates customer data from three different systems and a transaction table into a unified and reproducible analytical query for BI reporting.
 
 ## Dataset
 
@@ -26,4 +26,4 @@ Tables are:
 
 ## Final Output
 
-A unified customer query containing cleaned customer details, transaction count and total sales.
+A unified customer-level analytical query containing cleaned customer information, total sales, and transaction count.
