@@ -2,7 +2,7 @@
 
 This project is a simulated SQL case study involving customer data integration and cleaning for a fictional e-commerce SME called TokoBersih.
 
-The project integrates customer data from three different systems and a transaction table into a unified and reproducible analytical query for BI reporting.
+The project integrates customer data from three different systems and a transaction data into a unified and reproducible analytical query for BI reporting.
 
 ## Dataset
 
